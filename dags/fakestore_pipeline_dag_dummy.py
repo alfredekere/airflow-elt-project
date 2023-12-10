@@ -18,3 +18,5 @@ def fakestore_pipeline_elt():
     data = get_data()
     transformed_data = transform_data(data)
     store_data(transformed_data)
+
+fakestore_pipeline_elt()
