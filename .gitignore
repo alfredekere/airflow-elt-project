@@ -2,3 +2,4 @@
 *.env
 data/*.json
 data/*.csv
+dags/fakestore_pipeline_dag.py
